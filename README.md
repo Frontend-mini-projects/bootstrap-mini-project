@@ -1,6 +1,10 @@
 # bootstrap-mini-project
 In this repository, I create a frontend website using only HTML, CSS and Bootstrap.
 
+## Preview 
+![Uploading image.png…]()
+
+
 Reference - 
 https://www.youtube.com/watch?v=vpAJ0s5S2t0
 
